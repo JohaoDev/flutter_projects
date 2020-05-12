@@ -1,4 +1,4 @@
-package com.example.myapp2
+package com.example.englishrandomwordsgenerator
 
 import io.flutter.embedding.android.FlutterActivity
 
